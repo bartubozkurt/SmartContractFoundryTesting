@@ -2,16 +2,6 @@
 
 **Reproduce DeFi hack incidents using Foundry.**
 
-177 incidents included.
-
-This repo is only for the educational purpose.
-
-Let's make Web3 secure! Join [Discord](https://discord.gg/Fjyngakf3h)
-
-Notion: [101 root cause analysis of past DeFi hacked incidents](https://web3sec.xrex.io/)
-
-[Transaction debugging tools](https://github.com/SunWeb3Sec/DeFiHackLabs/#transaction-debugging-tools)
-
 ## Getting Started
 
 - Follow the [instructions](https://book.getfoundry.sh/getting-started/installation.html) to install [Foundry](https://github.com/foundry-rs/foundry).
